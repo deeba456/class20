@@ -1,2 +1,2 @@
-# class20
-algorithm to check if two objects are touching
+# p5.play-boilerplate
+Boiler plate for p5.play
